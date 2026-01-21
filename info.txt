@@ -1,1 +1,2 @@
 hello i am fro github using browser
+now i am writing in the text editor from local device
